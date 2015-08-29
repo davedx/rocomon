@@ -1,5 +1,11 @@
 var Player = require('../entities/player');
 
+//TASKS
+//1. make "add" function add three numbers together
+//2. make "zakgeld" function that takes weeks owed and amount per week and returns total owed
+//3. implement game "walk_left" animation
+//4. implement walk_right animation for second guy in spritesheet
+
 var Game = function () {
 };
 
